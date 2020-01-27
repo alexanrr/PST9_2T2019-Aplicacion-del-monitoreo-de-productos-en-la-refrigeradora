@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "515396495447",
+    "firebase_url": "https://refrigerador-inteligente.firebaseio.com",
+    "project_id": "refrigerador-inteligente",
+    "storage_bucket": "refrigerador-inteligente.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515396495447:android:9ee916f918282646a51b12",
+        "android_client_info": {
+          "package_name": "com.example.refrigeradorinteligente"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515396495447-fkmm7ra5v3f9dvuulk5hv6p0rlkullsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.refrigeradorinteligente",
+            "certificate_hash": "6e12a7bf12b89c931a38dd57334cd66c26790d79"
+          }
+        },
+        {
+          "client_id": "515396495447-2cndd98dquss8r7p7f7hm96sebu3l05d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZ03T_VIUqiil26wf9_Ghrje7EaCoBO8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515396495447-2cndd98dquss8r7p7f7hm96sebu3l05d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
